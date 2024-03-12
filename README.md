@@ -7,9 +7,11 @@ Customizable Options: Adjust settings like width, aspect ratio, and character se
 High-Quality Output: Generate high-resolution ASCII art with precise detail retention.
 Supports Various Image Formats: Convert images in popular formats such as JPEG, PNG, and GIF.
 Cross-Platform Compatibility: Works seamlessly on Windows, macOS, and Linux.
+
 How to Use:
 Clone the repository to your local machine.
 Install the required dependencies using pip.
 Run the Python script and follow the prompts to convert your images into ASCII art.
+
 Get Started:
-Give your projects a nostalgic touch by adding ASCII art! Try out this image t
+Give your projects a nostalgic touch by adding ASCII art! Try out this image to ASCII converter now and unleash your creativity.
