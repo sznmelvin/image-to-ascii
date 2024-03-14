@@ -1,4 +1,4 @@
-🖼️ Image to ASCII Converter 🎨<br>
+🖼️ **Image to ASCII Converter** 🎨<br>
 Convert your favorite images into stunning ASCII art with this powerful and easy-to-use Python tool!<br> This image to ASCII converter transforms your photos into artistic representations using ASCII characters, providing a unique and nostalgic aesthetic.
 
 Features:<br>
