@@ -9,7 +9,6 @@ This Python script converts images into ASCII art. It takes an image file as inp
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Code Breakdown](#code-breakdown)
-- [License](#license)
 
 ## Features
 
@@ -40,7 +39,7 @@ pip install Pillow
 Run the script from the command line:
 
 ```bash
-python ascii_art_generator.py
+python script.py
 ```
 
 Follow the prompts to enter the path to an image file. The script will then convert the image to ASCII art and display it in the console.
